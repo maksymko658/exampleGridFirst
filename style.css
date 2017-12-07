@@ -16,3 +16,20 @@ h1, h2, h3 {
   margin: 0;
   padding: 1em 0;
 }
+p{
+  margin: 0;
+  padding: 1em 0;
+}
+.btn {
+  display: inline-block;
+  background: #333;
+  color: #fff;
+  text-decoration: noce;
+  padding: 1em 2em;
+  margin: .5em 0;
+  border: 1px solid #666;
+}
+.btn:hover {
+  background: #eaeaea;
+  color: #333;
+}
