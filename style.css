@@ -57,3 +57,6 @@ p{
   padding-top: 100px;
   padding-bottom: 0;
 }
+#showcase .content-wrap {
+  padding: 0 1.5em;
+}
